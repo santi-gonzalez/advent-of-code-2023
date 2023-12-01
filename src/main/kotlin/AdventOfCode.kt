@@ -8,8 +8,8 @@ fun main(args: Array<String>) {
 //        val letter: Char = args[1].toCharArray()[0]
 //        val example: Boolean = args[2].toBoolean()
         val day = 1
-        val letter = 'a'
-        val example = true
+        val letter = 'b'
+        val example = false
         val source: String = FileReader.readTextFile(day, letter, example)
         val challenge: Challenge = ChallengeFactory.getChallenge(day, letter, source)
         val result: String = challenge.solve()
