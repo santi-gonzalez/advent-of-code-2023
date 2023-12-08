@@ -1,5 +1,5 @@
 package instrumentation
 
 interface Challenge {
-    fun solve(): String = TODO()
+    fun solve(): String = "in development..."
 }
