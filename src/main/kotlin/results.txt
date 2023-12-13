@@ -13,7 +13,7 @@
  Day 10: Pipe Maze . . . . . . . . . . . . . 6856             39464167        501              541921500
  Day 11: Cosmic Expansion  . . . . . . . . . 9947476          107282791       519939907614     68844125
  Day 12: Hot Springs . . . . . . . . . . . . 8075             50554042        4232520187524    166745541
- Day 13: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 13: Point of Incidence  . . . . . . . . 27202            35069750        41566            70822875
  Day 14: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 15: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 16: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
