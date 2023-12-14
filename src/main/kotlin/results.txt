@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------------
+         CHALLENGE                           RESULT    (A)    TIME            RESULT    (B)    TIME
+---------------------------------------------------------------------------------------------------------
+ Day  1: Trebuchet?! . . . . . . . . . . . . 55130            29402208        54985            31120000
+ Day  2: Cube Conundrum  . . . . . . . . . . 2545             34834583        78111            35833083
+ Day  3: Gear Ratios . . . . . . . . . . . . 525181           60560958        84289137         258104000
+ Day  4: Scratchcards  . . . . . . . . . . . 21821            46042375        5539496          45568583
+ Day  5: If You Give A Seed A Fertilizer . . 57075758         33949500        5539496          73947706042
+ Day  6: Wait For It . . . . . . . . . . . . 449550           26356125        28360140         48955833
+ Day  7: Camel Cards . . . . . . . . . . . . 250957639        42181000        251515496        44495417
+ Day  8: Haunted Wasteland . . . . . . . . . 17263            31734375        14631604759649   38486542
+ Day  9: Mirage Maintenance  . . . . . . . . 1901217887       47756292        905              38806875
+ Day 10: Pipe Maze . . . . . . . . . . . . . 6856             39464167        501              541921500
+ Day 11: Cosmic Expansion  . . . . . . . . . 9947476          107282791       519939907614     68844125
+ Day 12: Hot Springs . . . . . . . . . . . . 8075             50554042        4232520187524    166745541
+ Day 13: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 14: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 15: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 16: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 17: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 18: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 19: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 20: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 21: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 22: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 23: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 24: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 25: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
