@@ -4,7 +4,7 @@ import instrumentation.FileReader
 
 fun main(args: Array<String>) {
     try {
-        val day = 12
+        val day = 14
         val letter = 'b'
         val example = false
         val source: String = FileReader.readTextFile(day, letter, example)
@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
         val startTime = System.nanoTime()
         val result: String = challenge.solve()
         val totalTime = System.nanoTime() - startTime
-        println("Result for day $day-$letter: $result ($totalTime) nanos")
+        println("Result for day $day-$letter: $result ($totalTime nanos)")
     } catch (exception: NumberFormatException) {
         println("Error: Challenge not found")
     }
