@@ -15,7 +15,7 @@
  Day 12: Hot Springs . . . . . . . . . . . . 8075             50554042        4232520187524    166745541
  Day 13: Point of Incidence  . . . . . . . . 27202            35069750        41566            70822875
  Day 14: Parabolic Reflector Dish  . . . . . 110407           69488875        87273            111036000
- Day 15: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 15: Lens Library  . . . . . . . . . . . 503154           35119875        251353           44494250
  Day 16: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 17: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 18: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
