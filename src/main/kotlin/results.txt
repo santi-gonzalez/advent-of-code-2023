@@ -16,7 +16,7 @@
  Day 13: Point of Incidence  . . . . . . . . 27202            35069750        41566            70822875
  Day 14: Parabolic Reflector Dish  . . . . . 110407           69488875        87273            111036000
  Day 15: Lens Library  . . . . . . . . . . . 503154           35119875        251353           44494250
- Day 16: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 16: The Floor Will Be Lava  . . . . . . 6902             79820625        7697             222395708
  Day 17: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 18: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 19: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
