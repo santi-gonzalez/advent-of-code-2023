@@ -17,8 +17,8 @@
  Day 14: Parabolic Reflector Dish  . . . . . 110407           69488875        87273            111036000
  Day 15: Lens Library  . . . . . . . . . . . 503154           35119875        251353           44494250
  Day 16: The Floor Will Be Lava  . . . . . . 6902             79820625        7697             222395708
- Day 17: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
- Day 18: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 17: Clumsy Crucible . . . . . . . . . . 1244             458463817000    1367             140479267583
+ Day 18: Lavaduct Lagoon . . . . . . . . . . 50746            50746           70086216556038   38609542
  Day 19: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 20: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 21: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY

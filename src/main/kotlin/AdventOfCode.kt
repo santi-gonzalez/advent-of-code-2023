@@ -4,9 +4,9 @@ import instrumentation.FileReader
 
 fun main(args: Array<String>) {
     try {
-        val day = 16
+        val day = 17
         val letter = 'b'
-        val example = false
+        val example = true
         val source: String = FileReader.readTextFile(day, letter, example)
         val challenge: Challenge = ChallengeFactory.getChallenge(day, letter, source)
         val startTime = System.nanoTime()
