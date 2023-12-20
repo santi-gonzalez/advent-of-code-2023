@@ -20,7 +20,7 @@
  Day 17: Clumsy Crucible . . . . . . . . . . 1244             458463817000    1367             140479267583
  Day 18: Lavaduct Lagoon . . . . . . . . . . 50746            50746           70086216556038   38609542
  Day 19: Aplenty . . . . . . . . . . . . . . 420739           47140250        130251901420382  64942041
- Day 20: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 20: Pulse Propagation . . . . . . . . . 944750144        49637291        222718819437131  89683084
  Day 21: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 22: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 23: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
