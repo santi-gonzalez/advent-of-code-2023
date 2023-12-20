@@ -5,8 +5,8 @@ import instrumentation.FileReader
 fun main(args: Array<String>) {
     try {
         val day = 19
-        val letter = 'a'
-        val example = true
+        val letter = 'b'
+        val example = false
         val source: String = FileReader.readTextFile(day, letter, example)
         val challenge: Challenge = ChallengeFactory.getChallenge(day, letter, source)
         val startTime = System.nanoTime()
