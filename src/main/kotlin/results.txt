@@ -21,7 +21,7 @@
  Day 18: Lavaduct Lagoon . . . . . . . . . . 50746            50746           70086216556038   38609542
  Day 19: Aplenty . . . . . . . . . . . . . . 420739           47140250        130251901420382  64942041
  Day 20: Pulse Propagation . . . . . . . . . 944750144        49637291        222718819437131  89683084
- Day 21: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 21: Step Counter  . . . . . . . . . . . 3532             57258875        590104708070703  N/A
  Day 22: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 23: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 24: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
