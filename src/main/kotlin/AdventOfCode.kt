@@ -4,7 +4,7 @@ import instrumentation.FileReader
 
 fun main(args: Array<String>) {
     try {
-        val day = 23
+        val day = 24
         val letter = 'b'
         val example = false
         val source: String = FileReader.readTextFile(day, letter, example)

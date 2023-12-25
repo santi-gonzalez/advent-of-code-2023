@@ -24,5 +24,5 @@
  Day 21: Step Counter  . . . . . . . . . . . 3532             57258875        590104708070703  N/A
  Day 22: Sand Slabs  . . . . . . . . . . . . 515              12935521834     101541           40142827791
  Day 23: A Long Walk . . . . . . . . . . . . 2318             9756117625      6426             23185773875
- Day 24: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
+ Day 24: Never Tell Me The Odds  . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
  Day 25: . . . . . . . . . . . . . . . . . . XXXXXXXXXXX      YYYYYYYYYYY     XXXXXXXXXXX      YYYYYYYYYYY
