@@ -4,8 +4,8 @@ import instrumentation.FileReader
 
 fun main(args: Array<String>) {
     try {
-        val day = 24
-        val letter = 'b'
+        val day = 25
+        val letter = 'a'
         val example = false
         val source: String = FileReader.readTextFile(day, letter, example)
         val challenge: Challenge = ChallengeFactory.getChallenge(day, letter, source)
